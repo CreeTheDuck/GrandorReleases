@@ -20,4 +20,4 @@
 
 ### Notes
 File Location:
-C:\Users\ $${\color{red}UserName}$$ \AppData\LocalLow\CreeTheDuck\Crisis\Saves
+C:\Users\ $${\color{red}UserName}$$ \AppData\LocalLow\CreeDDuck\TalesOfGrandor\Saves

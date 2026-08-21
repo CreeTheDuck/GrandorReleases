@@ -26,6 +26,8 @@ C:\Users\ $${\color{red}UserName}$$ \AppData\LocalLow\CreeDDuck\TalesOfGrandor\S
 
 - /give gold #
 - /give item-id #
+- /set inventory_size #
+- /add inventory_rows #
 
 - /set health #
 - /set health max
@@ -39,9 +41,18 @@ C:\Users\ $${\color{red}UserName}$$ \AppData\LocalLow\CreeDDuck\TalesOfGrandor\S
 - /set weather snowy
 
 - /set time date season year hour min
-each as #
-- /set clock_speed #
-'#' is min per second currently 1
+ * each as '#'
+- /set clock_speed '#'
+	* # is min per second currently 1
+- /skip day '#'
+	* Skips '#' days
+
+- /set stat category value count
+- /add stat category value count
+
+- /set flag value ticked
 
 - /set scene SceneId
 - /tp x y
+
+- /start questID
